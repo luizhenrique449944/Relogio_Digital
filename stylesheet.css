@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+* {
+   font-family: 'Pacifico', cursive;
+}
+html, body {
+   height: 100%;
+}
+body {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: #eb0ec6;
+}
+div {
+   color: #8a0983dc;
+   font-weight: 300;
+   font-size: 130px;
+}
